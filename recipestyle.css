@@ -1,0 +1,14 @@
+body {
+    color: palegoldenrod;
+    background-color: burlywood;
+    text-align: center;
+       }
+a {
+    color: orangered;
+}
+p {
+    color: orangered;
+    background-color: lemonchiffon;
+    text-align: center;
+    text-shadow: 12rem;
+}
